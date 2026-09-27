@@ -1,7 +1,7 @@
 # Heterogeneous Data Analysis & String Similarity
 
 This repository contains a Jupyter notebook exploring techniques for
-computing similarity between strings and sets — a core building block of
+computing similarity between strings and sets - a core building block of
 heterogeneous data analysis and record linkage, where the same real-world
 entity may appear differently formatted across sources. It covers atomic
 string similarity measures, set-based similarity coefficients, and a full
@@ -113,7 +113,3 @@ scratch in the notebook — no specialized similarity library is required.
 Open `String_similarity_heterogeneous_data.ipynb` in Jupyter or Google Colab
 and run all cells top to bottom. The notebook was authored and exported from
 Google Colab, using `nbconvert` and `xelatex` to produce the accompanying PDF.
-
-## Author
-
-Anthony Kamau
